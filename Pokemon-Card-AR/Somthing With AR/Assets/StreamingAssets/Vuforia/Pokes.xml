@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Vulpix" size="0.630000 0.878910" />
+    <ImageTarget name="Ninetales" size="0.630000 0.878910" />
+    <ImageTarget name="Riolu" size="0.630000 0.877709" />
+    <ImageTarget name="Lucario" size="0.630000 0.877030" />
+    <ImageTarget name="Lycanroc" size="0.630000 0.880435" />
+    <ImageTarget name="Sandshrew_Alola" size="0.630000 0.882310" />
+    <ImageTarget name="Rhydon" size="0.630000 0.826071" />
+    <ImageTarget name="Meowstic" size="0.630000 0.878910" />
+    <ImageTarget name="Rockruff" size="0.630000 0.898930" />
+    <ImageTarget name="Sandslash_Alolan_Download" size="0.630000 0.877655" />
+  </Tracking>
+</QCARConfig>
